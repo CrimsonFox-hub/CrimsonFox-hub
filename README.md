@@ -72,7 +72,7 @@
 <tr>
   <td>5</td>
   <td><a href = "https://github.com/CrimsonFox-hub/2_excel_merge">«Сравнение выгрузок на предмет потерь»</a>(ПАО "T+")</td>
-  <td>Сравнение классификация из выгрузок из бд с реестром</td>
+  <td>Сравнение и классификация выгрузок из бд с реестром</td>
   <td>Pandas, numpy, recordlinkage</td>
 </tr>
 
