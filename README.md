@@ -5,9 +5,10 @@
 ---
 ## **<font color='crimson'>ПРОФЕССИОНАЛЬНАЯ ПОДГОТОВКА</font>**
 
+* ["«Машинное обучение»(Магистратура, студент)"](https://admission.mephi.ru/program/3145) (МИФИ, Москва, Россия)
 * ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU]<!--(https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20RU.pdf "Ссылка на диплом") / [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20ENG.pdf "Ссылка на диплом"). 2022-2023-->
 * ["Инженер программист(бакалавриат)"](http://www.osu.ru/doc/647/spec/7078/lvl/3/ksp/5244) (Оренбургский Государственный университет, Оренбург, Россия)
-* ["«Машинное обучение»(Магистратура, студент)"](https://admission.mephi.ru/program/3145) (МИФИ, Москва, Россия)
+
 ---
 
 ## **НАВЫКИ**
