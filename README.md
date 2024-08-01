@@ -6,18 +6,30 @@
 ## **<font color='crimson'>ПРОФЕССИОНАЛЬНАЯ ПОДГОТОВКА</font>**
 
 * ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум, Москва, Россия). Диплом о проф. переподготовке: [RU]<!--(https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20RU.pdf "Ссылка на диплом") / [ENG](https://github.com/egorumaev/cv-egorumaev/blob/main/2023%20DS%20%D0%AE%D0%BC%D0%B0%D0%B5%D0%B2%20%D0%95.%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20ENG.pdf "Ссылка на диплом"). 2022-2023-->
-* ["Инженер программист(бакалавриат)"](http://www.osu.ru/doc/647/spec/7078/lvl/3/ksp/5244) (Оренбургский Государственный университет, Россия)
-
+* ["Инженер программист(бакалавриат)"](http://www.osu.ru/doc/647/spec/7078/lvl/3/ksp/5244) (Оренбургский Государственный университет, Оренбург, Россия)
+* ["«Машинное обучение»(Магистратура, студент)"](https://admission.mephi.ru/program/3145) (МИФИ, Москва, Россия)
 ---
 
 ## **НАВЫКИ**
 
+| <!-- --> | <!-- --> | <!-- --> |
+|:-----|:-----|:-----|
+| **MySQL** | **PostgreSQL** | **PL-SQL** |
+| **DBeaver** | **Git** |  |
+| **Javascript** | **Angular** |  |
+
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 |:-----|:-----|:-----|:-----|:-----|
-| **Python 3** | **Git**| **Jupyter Notebook** | **PostgreSQL** | **C#** |
-| **MySQL** | **DBeaver** | **PL-SQL** | **Javascript** | **RecordLincage** |
-| **Pandas** | **Numpy** | **SciPy** | **Scikit-learn** | **Catboost** |
-| **LightGBM** | **XGBoost** | **Matplotlib** | **Seaborn** | **.net 7.2+** |
+| **Python 3** | **Jupyter Notebook** |  |  |  |
+| **Pandas**  | **Numpy** | **SciPy** |  |  |
+| **Seaborn** | **Matplotlib** | **Phik** |  |  |
+| **Scikit-learn** | **LightGBM** | **XGBoost** | **Catboost** | **Optuna** |
+| **re** | **JobLib** | **NLTK** | **RecordLincage** |  |
+
+| <!-- --> | <!-- --> | <!-- --> |
+|:-----|:-----|:-----|
+| **C#** | **.net 7.2+** | **Windows.Forms** |
+| **EntityFramework** | **AspNetCore** | **DbfDataReader** |
 
 ---
 <table>
@@ -33,39 +45,41 @@
   <td><a href = "https://github.com/CrimsonFox-hub/Practicum_DS">«Проекты с курса»</a> (Яндекс.Практикум)</td>
   <td>15  проектов, выполненных в течение обучения</td>
   <td>Pandas, Numpy, SciPy, Matplotlib, Scikit-learn, Catboost, Seaborn и многие другие библиотеки</td>
-  <td></td>
 </tr>
 
 <tr>
   <td>2</td>
-  <td><a href = "https://github.com/CrimsonFox-hub/SystemStorageServiceClient">«Фронтенд реестра оборудования»</a></td>
-  <td>ЗФронтенд часть проекта по классификации оборудования</td>
-  <td>Angular, JavaScript, Boostrap, css+ библиотеки</td>
-  <td></td>
+  <td><a href = "https://github.com/CrimsonFox-hub/Practicum_DS/blob/main/15_.ipynb">«Выпускной проект»</a> (Яндекс.Практикум)</td>
+  <td>Проект: отпимизация энергопотребления в производстве</td>
+  <td>Pandas, Numpy, Matplotlib, Scikit-learn, Catboost, Seaborn, LightGBM, joblib</td>
 </tr>
 
 <tr>
   <td>3</td>
-  <td><a href = "https://github.com/CrimsonFox-hub/SystemStorageServiceAPI">«Бэкенд реестра оборудования»</a></td>
-  <td>Бэкенд часть проекта по классификации оборудования</td>
-  <td>c#, EntityFramework, AspNetCore</td>
-  <td></td>
+  <td><a href = "https://github.com/CrimsonFox-hub/SystemStorageServiceClient">«Фронтенд реестра оборудования»</a>(Система "Город")</td>
+  <td>ЗФронтенд часть проекта по классификации оборудования</td>
+  <td>Angular, JavaScript, Boostrap, css+ библиотеки</td>
 </tr>
 
 <tr>
   <td>4</td>
-  <td><a href = "https://github.com/CrimsonFox-hub/2_excel_merge">«Сравнение выгрузок на предмет потерь»</a></td>
-  <td>Сравнение классификация из выгрузок из бд с реестром</td>
-  <td>Pandas, numpy, recordlinkage</td>
-  <td></td>
+  <td><a href = "https://github.com/CrimsonFox-hub/SystemStorageServiceAPI">«Бэкенд реестра оборудования»</a>(Система "Город")</td>
+  <td>Бэкенд часть проекта по классификации оборудования</td>
+  <td>c#, EntityFramework, AspNetCore</td>
 </tr>
 
 <tr>
-  <td>3</td>
-  <td><a href = "https://github.com/CrimsonFox-hub/dbf-to-oracle">«Миграция dbf в sql»</a></td>
+  <td>5</td>
+  <td><a href = "https://github.com/CrimsonFox-hub/2_excel_merge">«Сравнение выгрузок на предмет потерь»</a>(ПАО "T+")</td>
+  <td>Сравнение классификация из выгрузок из бд с реестром</td>
+  <td>Pandas, numpy, recordlinkage</td>
+</tr>
+
+<tr>
+  <td>6</td>
+  <td><a href = "https://github.com/CrimsonFox-hub/dbf-to-oracle">«Миграция dbf в sql»</a>(Система "Город")</td>
   <td>C# программа создания SQL аналога для выгрузок в формате DBF</td>
   <td>C#, DbfDataReader, Windows.Forms</td>
-  <td></td>
 </tr>
 </table>
 
