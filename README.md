@@ -8,6 +8,7 @@
 * ["«Машинное обучение»(Магистратура, студент)"](https://admission.mephi.ru/program/3145) (Национальный исследовательский ядерный университет «МИФИ́»)
 * ["Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/?from=catalog "Образовательная программа") (Яндекс.Практикум)
 * ["Инженер программист(бакалавриат)"](http://www.osu.ru/doc/647/spec/7078/lvl/3/ksp/5244) (Оренбургский Государственный университет)
+* ["Управление ИТ проектами"](https://ismc.mephi.ru/digital_department/project_management) (Национальный исследовательский ядерный университет «МИФИ́»)
 
 ---
 
@@ -40,6 +41,27 @@
   <th>Цель</th>
   <th>Язык+Библиотеки</th>
 </tr> 
+
+<tr>
+  <td>1</td>
+  <td><a href = "https://github.com/CrimsonFox-hub/hackaton_sber_auto">«Хакатон "СберАвтоподписка"»</a> (МИФИ)</td>
+  <td>Проект решения для хакатона от СберАвтоподписка от команды TEAM-A</td>
+  <td>Pandas, Numpy, SciPy, Matplotlib, Scikit-learn, Catboost, Seaborn и многие другие библиотеки</td>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td><a href = "https://github.com/CrimsonFox-hub/Hacaton_fire_and_smoke">«Хакатон "Мониторинг экосистем через IT-решения"»</a> (МИФИ)</td>
+  <td>Мониторинг экосистем через IT-решения от команды TEAM-A</td>
+  <td>Pandas, Numpy, SciPy, Matplotlib, Scikit-learn, Catboost, Seaborn и многие другие библиотеки</td>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td><a href = "https://github.com/CrimsonFox-hub/Hacaton_fire_and_smoke">«Курсовая работа»</a> (МИФИ)</td>
+  <td>Курсовая работа на тему: "Прогнозирование эффективности химических соединений на основе молекулярных дескрипторов"</td>
+  <td>Pandas, Numpy, SciPy, Matplotlib, Scikit-learn, Catboost, Seaborn и многие другие библиотеки</td>
+</tr>
 
 <tr>
   <td>1</td>
